@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rafaelpuig
-- 👀 I’m interested in learning about coding and anything about procedural and generative design for architecture/urbanism and game design.
-- 🌱 I’m currently learning coding for front end
-- 💞️ I’m looking to collaborate on projects that improves cities wellness
+- 👀 Interested in programming, generative design for architecture/urbanism and game design.
+- 🌱 Currently studying front-end Development
 - 📫 Reach me at rfpuig@hotmail.com
 
 <!---
