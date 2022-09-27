@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelpuig
-- 👀 Interested in programming, generative design for architecture/urbanism and game design.
+- 👀 Interested in architecture and technology.
 - 🌱 Currently studying front-end Development
 - 📫 Reach me at rfpuig@hotmail.com
 
