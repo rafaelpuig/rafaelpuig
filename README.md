@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafaelpuig
-- 👀 Interested in architecture and technology.
+- 👀 Interested in architecture and technology
 - 🌱 Currently studying front-end Development
 - 📫 Reach me at rflpuig@hotmail.com
 
