@@ -2,7 +2,7 @@
 
 <br />
 
-**Desenvolvedor Front-End**, gosto de criar todo tipo de coisa, desde produtos, à peças gráficas e literatura. Viciado em xadrez e jogos online! 🤓
+**Desenvolvedor Front-End**, gosto de criar também todo tipo de coisa, desde produtos, à peças gráficas e literatura. Viciado em xadrez e jogos online!🤓
 
 Sou Arquiteto e Urbanista de formação e mestre em Design e Tecnologia, ambos pela UFRGS. Sempre fui fascinado pelo mundo dos códigos, algoritmos e desenvolvimento de software, estudeando desde sempre diversos tópicos nesses temas.
 
