@@ -11,7 +11,7 @@ Sou Arquiteto e Urbanista de formação e mestre em Design e Tecnologia, ambos p
 ###  Tecnologias que estou apto a trabalhar 🚀
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="27" title="HTML5"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="30" title="HTML5"/> &nbsp;
   <img src="https://user-images.githubusercontent.com/95223411/196292669-67de2a7e-054a-4f29-af93-d6b712600217.png" width="22" title="CSS3"/> &nbsp;
   <img src="https://user-images.githubusercontent.com/95223411/196292866-3b6775ea-828c-43a2-9962-0b7fcd8d93a1.png" width="25" title="JavaScript"/> &nbsp;
 </div>
