@@ -2,7 +2,7 @@
 
 Arquiteto e Urbanista, mestre em Design e Tecnologia e estudando para me tornar Desenvolvedor Front-End! 🤟
 
-Tecnologias que estou apto a trabalhar  🚀
+<b> Tecnologias que estou apto a trabalhar </b> 🚀
 
 HTML5 CSS3  JAVASCRIPT
 
