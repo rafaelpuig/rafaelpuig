@@ -22,7 +22,7 @@ Sou Arquiteto e Urbanista de formação e mestre em Design e Tecnologia, ambos p
 ###  Tecnologias que estou estudando 🌱
 
 <div>
-  <img src="./images/react.png" width="25" title="React"/> &nbsp;
+  <img src="https://user-images.githubusercontent.com/95223411/196293066-34d55e79-5d0d-4a31-a928-a69325e7dc27.png" width="25" title="React"/> &nbsp;
 </div>
 
 <br />
