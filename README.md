@@ -1,10 +1,10 @@
-### Olá, Mundo! Eu sou Rafael Puig! 👋 
+### Olá, Mundo! Eu sou o Rafael Puig! 👋 
 
 <br />
 
-Estudando para me tornar **Desenvolvedor Front-End**, gosto de criar também todo tipo de coisa, desde produtos, à peças gráficas e literatura. Viciado em xadrez e jogos online!🤓
+Sou Arquiteto e Urbanista de formação, mestre em Design e Tecnologia, e, atualmente estudando para me tornar **Desenvolvedor Front-End**! 
 
-Sou Arquiteto e Urbanista de formação e mestre em Design e Tecnologia, ambos pela UFRGS. Sempre fui fascinado pelo mundo dos códigos, algoritmos e desenvolvimento de software, estudando por conta diversos tópicos nesses temas.
+Sempre fui fascinado pelo mundo tech, explorando games, linguagens de programação, algoritmos e até design generativo.. sem falar na dúzia de softwares que aprendi no caminho (:
 
 <br />
 
@@ -25,6 +25,8 @@ Sou Arquiteto e Urbanista de formação e mestre em Design e Tecnologia, ambos p
 </div>
 
 <br />
+
+Estou habituado a pesquisar a aprender por conta, sou organizado, tenho atenção aos detalhes e sei trabalhar orientado por resultados. Tem uma oportunidade? Que tal me chamar para conversar??
 
 ### Vem conferir meu Linkedin!
 
