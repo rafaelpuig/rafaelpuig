@@ -15,7 +15,9 @@ Sempre fui fascinado pelo mundo tech, explorando games, linguagens de programaç
   <img src="https://user-images.githubusercontent.com/95223411/196292669-67de2a7e-054a-4f29-af93-d6b712600217.png" width="22" title="CSS3"/> &nbsp;
   <img src="https://user-images.githubusercontent.com/95223411/196292866-3b6775ea-828c-43a2-9962-0b7fcd8d93a1.png" width="25" title="JavaScript"/> &nbsp;
 </div>
+
 <br />
+
 ###  Tecnologias que estou estudando no momento 🌱
 
 <div>
@@ -25,6 +27,8 @@ Sempre fui fascinado pelo mundo tech, explorando games, linguagens de programaç
 <br />
 
 Estou habituado a pesquisar a aprender por conta, sou organizado, tenho atenção aos detalhes e sei trabalhar orientado por resultados. Tem uma oportunidade? Que tal me chamar para conversar??
+
+<br />
 
 ### Vem conferir meu Linkedin!
 
