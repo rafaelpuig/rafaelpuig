@@ -1,4 +1,4 @@
-### Hello, World! I'm Rafael Puig! 👋 
+### Hello, World! I'm Rafael Puig 👋 
 
 <br />
 
